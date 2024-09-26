@@ -314,7 +314,7 @@
 | 网站 | 描述 |
 | :---- | :---- |
 | [标贝悦读AI配音](https://yuedu.data-baker.com/) | 标贝悦读AI配音技术提供了多... |
-| [FineVoice](https://www.fineshare.com/) | FineVoice是一种人工智能数字语音解决方案，可以帮助用户增强声音，并实时改变声音。它配有实时变声器，无限的音频和声音效果，录音室质量的录音机，文本到语音，语音到文本。 |
+| [FineVoice](https://www.fineshare.com/finevoice/) | Fineshare FineVoice 是一款多功能的人工智能语音工作室，拥有即时克隆、语音生成、语音变声等功能， 可帮助你快速创建声音自然、独特的高质量声音。 |
 | [VALL-E](https://valle-demo.github.io/) | VALL-E一种用于文本到语音合成 (TTS) 的语言建模方法。具体来说，我们使用从现成的神经音频编解码器模型派生的离散代码来训练神经编解码器语言模型（称为 VALL-E），并将 TTS 视为条件语言建模任务，而不是像以前的工作那样连续信号回归。 |
 | [Audyo](https://www.audyo.ai/) | Audyo是一款文本到语音的AI语音转换器，允许用户通过打字创建和编辑人类质量的AI语音。用户可以使用谷歌登录开始使用。 |
 | [FakeYou](https://fakeyou.com/) | FakeYou是一个使用深度伪造技术生成不同语言和声音的文本到语音的音频剪辑的工具。它允许用户用自己喜欢的角色创建音频剪辑，还提供了人工智能的文本转语音功能。它也有一个视频口型社区，排行榜和赞助人feed。 |
@@ -354,7 +354,7 @@
 | 网站 | 描述 |
 | :---- | :---- |
 | [Nuance](https://www.nuance.com/index.html) | Nuance是一家语音识别、自然语言理解和文本到语音技术领域的全球领导者。 |
-| [FineVoice](https://www.fineshare.com/) | FineVoice是一种人工智能数字语音解决方案，可以帮助用户增强声音，并实时改变声音。 |
+| [FineVoice](https://www.fineshare.com/) | Fineshare FineVoice 是一款多功能的人工智能语音工作室，拥有即时克隆、语音生成、语音变声等功能， 可帮助你快速创建声音自然、独特的高质量声音。 |
 | [Otter.ai](https://otter.ai/) | Otter.ai是一个自动的会议记录和笔记工具，帮助团队充分利用他们的会议。 |
 | [TTS-Voice-Wizard](https://github.com/VRCWizard/TTS-Voice-Wizard) | TTS语音向导是一种工具，允许用户通过微软Azure语音识别和TTS将语音转换为文本，然后再转换回语音。 |
 | [Speech Studio](https://speech.microsoft.com/portal) | Speech Studio是一套用于构建和集成Azure认知服务语音服务功能到应用程序中的工具。 |
@@ -574,7 +574,7 @@
 | [Shuffll](https://shuffll.com/) | Shuffll是一个尖端的视频制作... |
 | [Contentfries](https://www.contentfries.com/) | 用ContentFries获得数十个内... |
 | [Topaz Video AI](https://www.topazlabs.com/topaz-video-ai) | 无限制地访问世界领先的生产... |
-| [FineShare](https://www.fineshare.com/finecam/) | FineShare提供两种产品 finvo... |
+| [Fineshare](https://www.fineshare.com/finecam/) | Fineshare是一个声音创作平台，提供语音克隆、语音生成、语音变声、歌曲翻唱、音频处理等产品。简化声音创作，增强其音频和视频内容的表现力。 |
 | [QuickVid.Ai](https://quickvid.ai/) | QuickVid帮助Youtube用户毫不... |
 | [Clips AI](https://www.clipsai.com/) | Clips AI自动从播客、网络研... |
 | [Latte](https://latte.social/) | 找到您的视频内容中最吸引人... |
